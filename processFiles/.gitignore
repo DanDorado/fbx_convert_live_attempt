@@ -1,0 +1,11 @@
+# Ignore all files
+/*
+
+# Except subdirectories
+!*/
+
+# Ignore files in subdirectories
+/*/*
+
+# Exception for .gitignore itself
+!.gitignore
